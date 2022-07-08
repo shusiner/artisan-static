@@ -4,7 +4,7 @@ date: 2021-11-28
 image: https://res.cloudinary.com/artisanstatic/photos.jpg
 comments: false
 ---
-Register on [Cloudinary](https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/qq2slabgpy590znlop4j).
+Register on [Cloudinary](https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/qq2slabgpy590znlop4j). 1
 
 Go to `config.php`, add your **cloud name** and **API key** under the `services` key.
 
