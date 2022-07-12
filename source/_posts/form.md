@@ -4,6 +4,8 @@ date: 2022-07-12
 image: https://www.lifegate.com/app/uploads/mare-fa-bene-2.jpg
 comments: true
 ---
+This does not work, probably submission is disabled
+
 <div>
 
 <form name="contact" method="POST" data-netlify="true">
